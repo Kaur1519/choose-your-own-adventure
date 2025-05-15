@@ -8,5 +8,8 @@ You hesitate at the edge. A cool breeze drifts up from below. Curiosity gnaws at
 
 **What will you do?**
 
+
 - [Climb the hidden staircase](stairs.md)
+- [Ignore the staircase and go ask the librarian about it](librarian.md)
 - [Leave the library and head outside](leave.md)
+
