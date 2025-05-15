@@ -7,4 +7,9 @@ As you reached for a dusty volume on the top shelf, the shelf creaked and shifte
 You hesitate at the edge. A cool breeze drifts up from below. Curiosity gnaws at you.
 
 **What will you do?**
+
+- [Climb the hidden staircase](staircase.md)
+- [Ignore the staircase and go ask the librarian about it](librarian.md)
+- [Leave the library and head outside](leave.md)
 - [Snap a photo and send it to your friends for advice](photo.md)
+
