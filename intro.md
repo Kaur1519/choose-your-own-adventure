@@ -7,3 +7,4 @@ As you reached for a dusty volume on the top shelf, the shelf creaked and shifte
 You hesitate at the edge. A cool breeze drifts up from below. Curiosity gnaws at you.
 
 **What will you do?**
+- [Snap a photo and send it to your friends for advice](photo.md)
