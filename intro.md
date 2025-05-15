@@ -8,4 +8,5 @@ You hesitate at the edge. A cool breeze drifts up from below. Curiosity gnaws at
 
 **What will you do?**
 
-- [Step into the hidden staircase and explore the mystery](./staircase.md)  
+- [Climb the hidden staircase](stairs.md)
+- [Leave the library and head outside](leave.md)
