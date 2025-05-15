@@ -7,4 +7,5 @@ As you reached for a dusty volume on the top shelf, the shelf creaked and shifte
 You hesitate at the edge. A cool breeze drifts up from below. Curiosity gnaws at you.
 
 **What will you do?**
+
 [Ignore the staircase and go ask the librarian about it](librarian.md)
