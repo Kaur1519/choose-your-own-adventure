@@ -7,3 +7,6 @@ The librarian freezes. Her expression changes from pleasant to serious. "You saw
 She pulls out a small key and slides it into your hand. “Then it’s your turn now. I can't say more.”
 
 You’re stunned. Before you can reply, she turns and disappears into a back room.
+The librarian pulls out an old photo album filled with pictures of the library’s history.  
+- [Look through the photo album](photo.md)  
+- [Say goodbye and leave](leave.md)
